@@ -1,0 +1,105 @@
+{
+  "categories": [
+    {
+      "id": 3,
+      "adi": "Grafik Tasarım",
+      "kaytarih": "1669933286871",
+      "duztarih": "1669933286871"
+    },
+    {
+      "id": 4,
+      "adi": "Python",
+      "kaytarih": "1669937224486",
+      "duztarih": "1669937224486"
+    },
+    {
+      "id": 5,
+      "adi": "JavaScript",
+      "kaytarih": "1669937236125",
+      "duztarih": "1669937236125"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "adsoyad": "Baran",
+      "mail": "baran@gmail.com",
+      "admin": "1",
+      "parola": "1304",
+      "kaytarih": "1613930798332",
+      "duztarih": "1619930798394"
+    },
+    {
+      "id": "15",
+      "adsoyad": "Öztuna Şahingil",
+      "mail": "imperdiet@augue.np",
+      "admin": "0",
+      "parola": "643",
+      "kaytarih": "1654070115626",
+      "duztarih": "1669085146787"
+    },
+    {
+      "id": "20",
+      "adsoyad": "Burcu Kepenekli",
+      "mail": "mattis@mauris.bz",
+      "admin": "0",
+      "parola": "251",
+      "kaytarih": "1638070115626",
+      "duztarih": "1650085146787"
+    },
+    {
+      "id": "34",
+      "adsoyad": "Görkem Yücetaş",
+      "mail": "quam@eu.as",
+      "admin": "1",
+      "parola": "937",
+      "kaytarih": "1630070115626",
+      "duztarih": "1669937190962"
+    },
+    {
+      "id": "29",
+      "adsoyad": "Arraf Gürhan",
+      "mail": "non@sem.lt",
+      "admin": "0",
+      "parola": "419",
+      "kaytarih": "1628070115626",
+      "duztarih": "1669937187822"
+    },
+    {
+      "id": "43",
+      "adsoyad": "Şair Üstünel",
+      "mail": "urna@Proin.np",
+      "admin": "0",
+      "parola": "877",
+      "kaytarih": "1632070115626",
+      "duztarih": "1645085146787"
+    },
+    {
+      "id": "32",
+      "adsoyad": "Tekmile Asel",
+      "mail": "eget@sit.om",
+      "admin": "0",
+      "parola": "163",
+      "kaytarih": "1631070115626",
+      "duztarih": "1638085146787"
+    },
+    {
+      "id": "40",
+      "adsoyad": "Durusan Türen",
+      "mail": "hendrerit@neque.pg",
+      "admin": "0",
+      "parola": "727",
+      "kaytarih": "1648070115626",
+      "duztarih": "1660085146787"
+    },
+    {
+      "id": "44",
+      "adsoyad": "Hicran Köpürür",
+      "mail": "suscipit@metus.se",
+      "admin": "0",
+      "parola": "311",
+      "kaytarih": "1628070115626",
+      "duztarih": "1659085146787"
+    }
+  ]
+}
